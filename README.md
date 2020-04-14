@@ -1,7 +1,9 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/k-sys-covid-19-remix/master?urlpath=lab%2Ftree%2Fnotebooks%2FRealtime_R0.ipynb)
+
 remake-covid-19-analysis
 ==============================
 
-This is a recreation of k-sys covid-19 repository where he uses Bettencourt and Ribeiro bayesian algorithm to estimate the most likely value of Rt and a credible interval.
+This is a recreation of @k-sys/covid-19 repository where he uses Bettencourt and Ribeiro's bayesian algorithm to estimate the most likely value of Rt and a credible interval.
 
 Project Organization
 --------------------
